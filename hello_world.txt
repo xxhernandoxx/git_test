@@ -1,0 +1,3 @@
+Still learning the basics of command line and moving on to 
+understand git. Having the base of git will help in with 
+deciphering VCS and move toward more collaboration.
